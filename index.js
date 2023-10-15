@@ -1,4 +1,2 @@
 console.log('Red') // original comment on main
-
-console.log('blue')
-// commenting out the new colour
+console.log('adding changes to main branch')
